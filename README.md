@@ -28,4 +28,4 @@ zhou.fan1@husky.neu.edu
 
 ## Acknowledgements
 
-We thank professor Waleid Meleis for his guidance and support throughout the project. 
+We thank professor Waleed Meleis for his guidance and support throughout the project. 
