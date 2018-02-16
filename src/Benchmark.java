@@ -35,7 +35,7 @@ public class Benchmark {
 		array = new int[size];
 		Random rg = new Random(seed);
 	    for (int i = 0; i < size; i++)
-	        array[i] = rg.nextInt((max - min + 1) + min);
+	        array[i] = rg.nextInt(max - min + 1) + min;
 	}
 
 	public int[] getArray() {
