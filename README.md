@@ -20,8 +20,8 @@ Electrical and Computer Engineering (EECE)
 Northeastern University  
 bocanegrac@coe.neu.edu
 
-Fan Zhou
-PhD Candidate
+Fan Zhou  
+PhD Candidate  
 Electrical and Computer Engineering (EECE)  
 Northeastern University  
 zhou.fan1@husky.neu.edu
